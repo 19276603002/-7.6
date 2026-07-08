@@ -1,0 +1,23 @@
+# C/C++ 编译生成文件
+*.exe
+*.out
+*.obj
+*.o
+*.ilk
+*.pdb
+*.pch
+*.idb
+
+# 调试与日志文件
+*.log
+*.tlog
+
+# IDE 配置文件
+.vscode/
+.vs/
+*.suo
+*.user
+
+# 系统临时文件
+Thumbs.db
+.DS_Store
